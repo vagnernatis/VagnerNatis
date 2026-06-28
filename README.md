@@ -10,10 +10,16 @@ Mais adiante, pretendo explorar a criação de **agentes de IA** — mas confio 
 
 ## 🎯 No momento, estou estudando:
 
-- Lógica de Programação com JavaScript
-- HTML & CSS
-- Git e GitHub (controle de versão e colaboração)
-
+- Lógica de Programação com JavaScript 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+- HTML & CSS 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+- Git e GitHub (controle de versão e colaboração) 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+            
 ## 🎵 Um pouco mais sobre mim
 
 Tenho uma trajetória na música, principalmente em contexto de ministério de louvor. É essa vivência que inspira um dos meus projetos pessoais, o **TomComun** — uma rede social pensada para músicos organizarem e compartilharem cifras.
