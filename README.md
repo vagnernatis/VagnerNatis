@@ -28,7 +28,7 @@ Prefiro entender o "porquê" antes do "como". Documento minhas dúvidas e meu pr
 
 ## 🛠️ Prática deliberada
 
-Todo sábado, replico um projeto novo a partir do zero — sem seguir um tutorial passo a passo até o fim. O objetivo é treinar resolver problemas, não só copiar.
+Aos finais de semana, sempro sigo um projeto na internet a fim de ampliar meus conhecimentos e conhecer coisas novas, buscando utilizar tecnologias que eu ainda não vi.
 
 ## 🎵 Um pouco mais sobre mim
 
