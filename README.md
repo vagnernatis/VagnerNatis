@@ -1,6 +1,6 @@
-# Olá, eu sou o Vagner 👋
+# Opa, eai tudo bem?👋
 
-Estou em transição de carreira para a área de tecnologia, e hoje estou focado em **Desenvolvimento Web**.
+Dei inicio a esta jordana a me tornar um profissional na área de tecnologia, e hoje estou focado em **Desenvolvimento Web**.
 
 ## 🌱 Sobre minha jornada
 
@@ -12,9 +12,7 @@ Mais adiante, pretendo explorar a criação de **agentes de IA** — mas confio 
 
 - Lógica de Programação com JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20" />
 - HTML & CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="20" height="20" />
-- Git e GitHub (controle de versão e colaboração) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20" /> 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+- Git e GitHub (controle de versão e colaboração) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20" />     
 
 ## 🧱 Como eu aprendo
 
