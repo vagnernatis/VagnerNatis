@@ -30,5 +30,11 @@ Tenho uma trajetória na música, principalmente em contexto de ministério de l
 
 Estou sempre aberto a trocar ideias com quem também está aprendendo ou já trilhou esse caminho.
 
+div>
+<a href="https://instagram.com/vagnernatis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:vagnernatis@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vagnernatis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ---
 *Construindo conhecimento um commit por vez.* 🚀
