@@ -12,7 +12,7 @@ Mais adiante, pretendo explorar a criação de **agentes de IA** — mas confio 
 
 - Lógica de Programação com JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20" />
 - HTML & CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="20" height="20" />
-- Git e GitHub (controle de versão e colaboração) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" />
+- Git e GitHub (controle de versão e colaboração) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" />
 
 ## 🧱 Como eu aprendo
 
