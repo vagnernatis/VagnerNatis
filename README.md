@@ -1,6 +1,6 @@
 # Opa, eai tudo bem?👋
 
-Dei inicio a esta jordana a me tornar um profissional na área de tecnologia, e hoje estou focado em **Desenvolvimento Web**.
+Dei inicio a esta jornada para me tornar um profissional na área de tecnologia, e atualmente estou focado em **Desenvolvimento Web**.
 
 ## 🌱 Sobre minha jornada
 
